@@ -44,6 +44,7 @@ This project demonstrates full-stack development, backend architecture design, A
 
 ## 📁 Project Structure
 
+```
 AI-Portfolio/
 │
 ├── backend/
@@ -71,8 +72,7 @@ AI-Portfolio/
 │
 ├── .gitignore
 └── README.md
-
----
+```
 
 ## 🔄 How It Works
 
